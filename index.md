@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Baking Code
+title: Blog
+list_title: CS, CV, & Other random thoughts
 ---
 
 
