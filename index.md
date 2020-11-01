@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Blog
-list_title: CS, CV, & Other random thoughts
+list_title: Computer Vision - Tech - Bread
 ---
 
 
