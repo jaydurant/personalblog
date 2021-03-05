@@ -16,7 +16,7 @@
 title: Code Baker
 email: jd3720@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi Everyone, My name is Jason Durant and I am Computer Science Masters student at 
+  Hi Everyone, my name is Jason Durant and I am Computer Science Masters student at 
   Columbia University. I want to keep this blog to talk about Computer Science, Computer Vision, and
   my random other thoughts. So... thanks for coming and I hope you learn something.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ linkedin_username: durantjason
 # Build settings
 markdown: kramdown
 theme: minima
-
+show_excerpts: true
 plugins:
   - jekyll-feed
 
