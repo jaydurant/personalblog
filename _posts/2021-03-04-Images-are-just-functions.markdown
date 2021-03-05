@@ -4,6 +4,7 @@ title:  "Images are just functions"
 date:   2021-03-04 00:00:00 -0400
 excerpt: What are images? How can they be represented by computers? How can we do some image manipulation? Let us walk through this together with some Python and OpenCV. Join me in my first walkthrough.
 categories: computer-vision
+image: https://www.researchgate.net/profile/Bhupendra-Pratap-Singh/publication/282798184/figure/fig15/AS:283989639221249@1444719814399/Color-image-representation-and-RGB-matrix.png
 ---
 
 Here is my first article as I delve into Computer Vision and review concepts and code that I find important. You can find my jupyter notebook [here](https://colab.research.google.com/drive/1rzTgZmJeImvrSpSYgAq-ZNTvz9p9RucP?usp=sharing) which uses [Python3](https://www.python.org/) and [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html). 
